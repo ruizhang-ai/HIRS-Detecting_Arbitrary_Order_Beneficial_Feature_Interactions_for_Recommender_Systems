@@ -1,3 +1,4 @@
 data/ml-25m/
-*/.DS_Store
 .DS_Store
+**/.DS_Store
+.DS_Store?
