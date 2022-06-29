@@ -1,6 +1,6 @@
 # Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems (HIRS)
 
-This is our implementation for the paper [link](http://arxiv.org/abs/2206.13764):
+This is our implementation for the [paper](http://arxiv.org/abs/2206.13764):
 
 Yixin Su, Yunxiang Zhao, Sarah Erfani*, Junhao Gan, Rui Zhang, **Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems **. *Conference on Knowledge Discovery and Data Mining* (KDD) 2021.
 
@@ -9,7 +9,7 @@ Yixin Su, Yunxiang Zhao, Sarah Erfani*, Junhao Gan, Rui Zhang, **Detecting Arbit
 Detecting beneficial feature interactions is essential in recommender systems, and existing approaches achieve this by examining all the possible feature interactions. However, the cost of examining all the possible higher-order feature interactions is prohibitive (exponentially growing with the order increasing). Hence existing approaches only detect limited order (e.g., combinations of up to four features) beneficial feature interactions, which may miss beneficial feature interactions with orders higher than the limitation. 
 
 <p align="center">
-  <img src="/img/running_example.jpg", alt="Differences" width="600">
+  <img src="/img/running_example.jpg", alt="Differences", width="600" title="Left: existing studies detect beneficial feature interactions within limited orders by examining all the possible feature interactions. Right: we detect arbitrary order beneficial feature interactions by directly generating them with our deep-infomax-based methods (s-Infomax and Infomin).">
   <p align="center"><em>Figure1: Left: existing studies detect beneficial feature interactions within limited orders by examining all the possible feature interactions. Right: we detect arbitrary order beneficial feature interactions by directly generating them with our deep-infomax-based methods (s-Infomax and Infomin). </em></p>
 </p>
 
