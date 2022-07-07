@@ -2,7 +2,7 @@
 
 This is our implementation for the [paper](http://arxiv.org/abs/2206.13764):
 
-Yixin Su, Yunxiang Zhao, Sarah Erfani*, Junhao Gan, Rui Zhang, **Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems **. *Conference on Knowledge Discovery and Data Mining* (KDD) 2021.
+Yixin Su, Yunxiang Zhao, Sarah Erfani*, Junhao Gan, Rui Zhang, **Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems **. *Conference on Knowledge Discovery and Data Mining* (KDD) 2022.
 
 ## Description
 
